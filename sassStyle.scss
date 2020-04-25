@@ -1,0 +1,26 @@
+$ta:center;
+section {
+  text-align:$ta;
+  p {
+    font-size:14px;
+    padding-right: 200px;
+    padding-left: 200px;
+    font-size:18px;
+  }
+  h4 {
+    padding:20px;
+    font-family: TimesNewRoman;
+  }
+
+}
+%title {
+    text-align:center;
+    color:black;
+    font-family:TimesNewRoman;
+    font-size:100px;
+    padding:20px;
+  }
+h1 {
+  @extend%title;
+  font-size: 84px;
+}

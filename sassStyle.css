@@ -1,0 +1,27 @@
+section {
+  text-align: center;
+}
+section p {
+  font-size: 14px;
+  padding-right: 200px;
+  padding-left: 200px;
+  font-size: 18px;
+}
+section h4 {
+  padding: 20px;
+  font-family: TimesNewRoman;
+}
+
+h1 {
+  text-align: center;
+  color: black;
+  font-family: TimesNewRoman;
+  font-size: 100px;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 84px;
+}
+
+/*# sourceMappingURL=sassStyle.css.map */
